@@ -1,7 +1,7 @@
-title: Hamilton
+title: Sosa
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
-avatar: /logo.png
+author: Sosa Jorge
+avatar: /images/SosaJ.png
 email: ngzhio@gmail.com
 
 plugins:
@@ -30,14 +30,14 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: Sosa
   card: summary
-logo: logo.png
+logo: /images/Sosa.png
 social:
   name: Shangzhi Huang
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://twitter.com/
+    - https://www.facebook.com/Jorgiiitoooss
+    - https://github.com/Jorgito1999
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
