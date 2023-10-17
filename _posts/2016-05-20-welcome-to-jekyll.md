@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ingeniero en Sistemas y Tercer Sobrino de la Tia Itzel"
+date: "03-Octubre-2023"
 ---
 El Tecnm nos hizo compas, su sobrina nos hizo familia 7u7r
 
